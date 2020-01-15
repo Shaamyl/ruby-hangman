@@ -123,7 +123,6 @@ class MainLoop
       choice = gets.chomp
       if choice == "y"
         serialized_text = JSON::dump(game_screen.to_json)
-        puts serialized_text
         puts "Choose slot 1, 2, or 3"
         choice = gets.chomp
         if choice == "1" || choice == "2" || choice == "3"
