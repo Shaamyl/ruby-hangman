@@ -1,0 +1,1 @@
+{"@word":"blacken","@has_lost":false,"@has_won":false,"@char_list":["b","l","a","c","k","e","n"],"@user_char_list":["_","_","a","c","_","e","_"],"@tries":4}

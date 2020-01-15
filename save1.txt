@@ -1,0 +1,1 @@
+{"@word":"sempstress","@has_lost":false,"@has_won":false,"@char_list":["s","e","m","p","s","t","r","e","s","s"],"@user_char_list":["_","_","_","_","_","_","_","_","_","_"],"@tries":6}
